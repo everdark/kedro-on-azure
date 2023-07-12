@@ -1,0 +1,3 @@
+storage_account: k9kedroonazure
+container: test
+path: test-dir/test.txt

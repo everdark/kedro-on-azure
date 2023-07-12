@@ -1,0 +1,3 @@
+data1:
+    type: text.TextDataSet
+    filepath: abfs://${container}/${path}

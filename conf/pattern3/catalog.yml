@@ -1,0 +1,4 @@
+data3:
+    type: text.TextDataSet
+    filepath: abfs://${container}/${path}
+    credentials: adls

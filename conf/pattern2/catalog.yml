@@ -1,0 +1,5 @@
+data2:
+    type: text.TextDataSet
+    filepath: abfs://${container}/${path}
+    fs_args:
+        account_name: ${storage_account}
