@@ -1,7 +1,6 @@
 adlfs~=2023.4.0
 azure-identity~=1.13.0
 kedro~=0.18.11
-pandas~=2.0.0
 python-dotenv~=1.0.0
 
 # dev
